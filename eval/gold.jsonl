@@ -1,0 +1,42 @@
+{"id": "secprog", "relevant_docs": ["isms"]}
+{"id": "secprog_standard_name", "relevant_docs": ["isms"]}
+{"id": "secprog_team", "relevant_docs": ["isms"]}
+{"id": "secprog_intaudits_std", "relevant_docs": ["isms"]}
+{"id": "secprog_vendorsec_owner", "relevant_docs": ["third-party-risk-management"]}
+{"id": "secprog_vendorsec_clauses", "relevant_docs": ["third-party-risk-management"]}
+{"id": "secprog_changemgmt_documented", "relevant_docs": ["change-management-policy", "security-change-management-procedure"]}
+{"id": "secprog_changemgmt_records", "relevant_docs": ["change-management-policy", "records-retention-deletion"]}
+{"id": "secprog_incidents_procedures", "relevant_docs": ["sec-incident-response"]}
+{"id": "secprog_incidents_knowhow", "relevant_docs": ["sec-incident-response"]}
+{"id": "secprog_incidents_inform", "relevant_docs": ["sec-incident-response"]}
+{"id": "secprog_peopleops_jobdesc", "relevant_docs": ["isms"]}
+{"id": "secprog_peopleops_needtoknow", "relevant_docs": ["access-management-policy", "access-reviews", "audit-logging-policy"]}
+{"id": "secprog_train_tvc", "relevant_docs": ["sec-awareness-training"]}
+{"id": "servers_configmgmt", "relevant_docs": ["change-management-policy", "security-change-management-procedure"]}
+{"id": "servers_patching", "relevant_docs": ["sla", "security-change-management-procedure"]}
+{"id": "servers_patching_schedule_exceptions", "relevant_docs": ["security-change-management-procedure", "sla"]}
+{"id": "servers_logging", "relevant_docs": ["security-logging-standard", "audit-logging-policy"]}
+{"id": "servers_logging_retention", "relevant_docs": ["security-logging-standard", "records-retention-deletion", "audit-logging-policy"]}
+{"id": "servers_logging_central", "relevant_docs": ["security-logging-standard"]}
+{"id": "servers_admin_auditing", "relevant_docs": ["access-reviews", "access-management-policy", "audit-logging-policy"]}
+{"id": "servers_backup_test", "relevant_docs": ["gitlab-business-continuity-plan", "records-retention-deletion"]}
+{"id": "servers_email_inbound_tls", "relevant_docs": ["cryptographic-standard"]}
+{"id": "clients_av", "relevant_docs": ["physical-security-standard-for-company-assets"]}
+{"id": "clients_laptops_hd_encrypted", "relevant_docs": ["cryptographic-standard", "physical-security-standard-for-company-assets"]}
+{"id": "clients_media_encryption", "relevant_docs": ["physical-security-standard-for-company-assets", "cryptographic-standard"]}
+{"id": "testing_pentests", "relevant_docs": ["penetration-testing-policy"]}
+{"id": "application_vm_securitycontact", "relevant_docs": ["isms", "sla"]}
+{"id": "application_ssl_configuration_ciphers", "relevant_docs": ["cryptographic-standard"]}
+{"id": "application_ssl_configuration_pfs", "relevant_docs": ["cryptographic-standard"]}
+{"id": "application_custom_auth_pwdreq", "relevant_docs": ["password-standard"]}
+{"id": "application_testing_qa_security", "relevant_docs": ["software-development-lifecycle-standard", "software-development-lifecycle-policy"]}
+{"id": "secprog_background_checks", "relevant_docs": []}
+{"id": "secprog_peopleops_disciplinary_process", "relevant_docs": []}
+{"id": "network_firewalls", "relevant_docs": []}
+{"id": "network_dmz", "relevant_docs": []}
+{"id": "network_wifi", "relevant_docs": []}
+{"id": "servers_admin_windows_da_accounts", "relevant_docs": []}
+{"id": "clients_winxp", "relevant_docs": []}
+{"id": "application_auth_cookies_timeout", "relevant_docs": []}
+{"id": "application_sqli_prepared_consistent", "relevant_docs": []}
+{"id": "servers_backup_media_offsite", "relevant_docs": []}

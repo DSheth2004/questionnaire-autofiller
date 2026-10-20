@@ -1,0 +1,6 @@
+{
+  "auroc": 0.9,
+  "threshold": 0.35,
+  "not-covered caught": "6/10",
+  "covered wrongly flagged": "3/32"
+}

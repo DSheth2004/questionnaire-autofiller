@@ -1,0 +1,22 @@
+{
+  "bm25": {
+    "hit@1": 0.625,
+    "recall@5": 0.9375,
+    "mrr": 0.7348958333333333,
+    "ms/query": 0.48495631247647,
+    "misses": [
+      "clients_av",
+      "application_testing_qa_security"
+    ]
+  },
+  "bm25+expand": {
+    "hit@1": 0.75,
+    "recall@5": 0.9375,
+    "mrr": 0.8239583333333333,
+    "ms/query": 0.5928053750139384,
+    "misses": [
+      "secprog_changemgmt_records",
+      "application_testing_qa_security"
+    ]
+  }
+}
